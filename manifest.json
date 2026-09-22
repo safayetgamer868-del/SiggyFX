@@ -1,0 +1,11 @@
+{
+  "name": "ShiggyFX",
+  "description": "Client-side visual customization for notifications and profiles.",
+  "authors": [
+    {
+      "name": "GAMER_INFINITE",
+      "id": "0"
+    }
+  ],
+  "main": "index.js"
+}
